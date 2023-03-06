@@ -1,7 +1,7 @@
 import java.util.*;
 public class Class {
     public static void main(String args[]){
-        Integer coins[]={1,2,5,10,20,50,100,500,200};
+        Integer coins[]={1,2,5,10,20,50,100,500,2000};
             //sorted in reverse order;
 
         Arrays.sort(coins,Comparator.reverseOrder());
